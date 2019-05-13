@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
 --
--- Created by: Matsuru Hoshi
+-- Created by: Teddy Sannan
 -- Created on: May 7, 2019
 --
 -- This file plays with scene 2
